@@ -1,0 +1,5 @@
+# Archivos que NO deben subirse
+.vs/
+BibliotecaDigital/.vs/
+bin/
+obj/
